@@ -1,6 +1,6 @@
 date,postal_code,latitude,longitude,healthy,sick_guess_no_corona,sick_guess_corona,sick_corona_confirmed,recovered_confirmed,recovered_not_confirmed
 2020-04-03,10020,73.1,31.6333,1,0,1,0,0,0
-2020-04-03,22010,72.2607,33.346,1,0,1,1,1,0
+2020-04-03,22010,72.2607,33.346,2,0,1,1,1,0
 2020-04-03,22620,71.9342,33.1227,1,1,0,0,0,0
 2020-04-03,25100,71.1752,33.6754,2,0,0,0,0,0
 2020-04-03,21300,72.8672,34.58,1,0,0,0,0,0
